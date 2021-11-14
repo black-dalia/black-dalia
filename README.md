@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Desiree! 
-- 👀 I’m interested in data analysis and machine learning
+- 👀 I’m interested in data analysis and I am passionate about Energy related topics  
 - 🌱 I’m currently building ma Github page with personal projects
 
 <!---
